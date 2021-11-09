@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/media/ripon/Windows4/Users/ahrip/Documents/linux-soft/ros-projects/udacity-sdv-ws/devel -DCMAKE_INSTALL_PREFIX=/media/ripon/Windows4/Users/ahrip/Documents/linux-soft/ros-projects/udacity-sdv-ws/install -G Unix Makefiles
